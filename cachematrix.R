@@ -23,7 +23,7 @@ makeCacheMatrix <- function(x = matrix()) {
                 
                 x
                 
-                } ## 
+                } ## get the vlaue of x
         
         setinv <- function(inverse) {
                 
